@@ -1,4 +1,4 @@
-# Content-Based-Product-Retrieval
+# Content-Based-Product-Retrieval-System
 
 ## About the Project
 
