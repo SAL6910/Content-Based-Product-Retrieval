@@ -29,7 +29,7 @@ This project is about Content Based Product Retrieval. Entire project is made us
 
 
 <p align="center">
-    <b>Similar Images</b>
+    <b>Similar Product Images</b>
 </p>
 
 <img src="SS/4.png" alt="Similar Images">
